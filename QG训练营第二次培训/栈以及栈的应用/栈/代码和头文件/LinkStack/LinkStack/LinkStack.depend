@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1617453913 source:c:\users\吴亦凡\desktop\qg训练营\qg训练营第二次培训\栈以及栈的应用\栈\代码和头文件\linkstack\linkstack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"LinkStack.h"
+	<windows.h>
+
+1617430611 c:\users\吴亦凡\desktop\qg训练营\qg训练营第二次培训\栈以及栈的应用\栈\代码和头文件\linkstack\linkstack\linkstack.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1617453675 source:c:\users\吴亦凡\desktop\qg训练营\qg训练营第二次培训\栈以及栈的应用\栈\代码和头文件\linkstack\linkstack\linkstack.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"LinkStack.h"
+
