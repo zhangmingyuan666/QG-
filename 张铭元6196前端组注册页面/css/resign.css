@@ -1,0 +1,78 @@
+.resign {
+    position: absolute;
+    left: 50%;
+    display: none;
+    margin-left: -150px;
+    top: 15%;
+    width: 300px;
+    background: rgba(122, 113, 113, 0.3);
+    border-radius: 47px;
+}
+
+.change2 {
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.resignbutton {
+    position: relative;
+    left: 50%;
+    margin-left: -100px;
+    margin-bottom: 20px;
+    background-color: transparent;
+    border: #333 solid 1px;
+    transition: all 1s ease-out;
+    height: 60px;
+    width: 200px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0 20px 80px rgba(48, 49, 51, 0.15);
+}
+
+.resignbutton:hover {
+    background: rgba(122, 113, 113, 0.4);
+    color: whitesmoke;
+    border: #fff 2px solid;
+    transform: translateY(-5px);
+    box-shadow: 0 20px 80px rgba(48, 49, 51, 0.15);
+}
+
+.change2:hover {
+    border: #fff 1px solid;
+    transform: translateY(-5px);
+    box-shadow: 0 20px 80px rgba(48, 49, 51, 0.15);
+}
+
+.resign .change2 {
+    color: rgb(0, 0, 0);
+    margin-top: -3px;
+    font-size: 14px;
+    height: 30px;
+    line-height: 30px;
+    border: #333 solid 1px;
+    transition: all 1s ease-out;
+    box-shadow: 0 20px 80px rgba(48, 49, 51, 0.15);
+    background: transparent;
+}
+
+.resign .change2:hover {
+    background: rgba(122, 113, 113, 0.4);
+    border: #fff 2px solid;
+    color: whitesmoke;
+}
+
+#resign_answer {
+    display: none;
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 10px;
+    border: 2px solid red;
+    color: red;
+    margin-left: 50px;
+    margin-right: 50px;
+    background: rgba(225, 0, 0, 0.3);
+    border-radius: 10px;
+    font-weight: 500;
+}
