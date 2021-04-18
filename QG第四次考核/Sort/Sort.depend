@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1618736695 source:c:\users\吴亦凡\desktop\qg第四次考核\sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	"qgsort.h"
+	<time.h>
+	<malloc.h>
+	<string.h>
+	<unistd.h>
+
+1618641275 c:\users\吴亦凡\desktop\qg第四次考核\sort\qgsort.h
+	<stdio.h>
+	<stdlib.h>
+
+1618736241 source:c:\users\吴亦凡\desktop\qg第四次考核\sort\qgsort.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<time.h>
+	"qgsort.h"
+
+1618739176 source:c:\users\吴亦凡\desktop\qg训练营\qg训练营第四次培训\qg第四次考核\sort\qgsort.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<time.h>
+	"qgsort.h"
+
+1618738028 c:\users\吴亦凡\desktop\qg训练营\qg训练营第四次培训\qg第四次考核\sort\qgsort.h
+	<stdio.h>
+	<stdlib.h>
+
+1618739218 source:c:\users\吴亦凡\desktop\qg训练营\qg训练营第四次培训\qg第四次考核\sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	"qgsort.h"
+	<time.h>
+	<malloc.h>
+	<string.h>
+	<unistd.h>
+
