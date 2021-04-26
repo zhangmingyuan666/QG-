@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1619343224 source:c:\users\Œ‚“‡∑≤\desktop\123\binary_sort_tree.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<malloc.h>
+	"binary_sort_tree.h"
+
+1619342112 c:\users\Œ‚“‡∑≤\desktop\123\binary_sort_tree.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<malloc.h>
+
+1619343034 source:c:\users\Œ‚“‡∑≤\desktop\123\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"binary_sort_tree.h"
+
+1619342317 source:c:\users\Œ‚“‡∑≤\desktop\123\diedai.c
+
